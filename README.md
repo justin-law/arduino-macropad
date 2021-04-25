@@ -8,4 +8,6 @@ Contains 4 buttons with functionality for:
   3. Computer sleep
   4. Computer wake/unlock
 
+The rotary encoder currently acts as volume control. The click on the rotary encoder has not been wired, and the code actually is currently for a mechanical switch.
+
 Requires the HID-Project library
